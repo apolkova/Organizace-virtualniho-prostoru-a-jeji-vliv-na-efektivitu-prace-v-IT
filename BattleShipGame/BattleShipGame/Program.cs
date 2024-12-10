@@ -19,7 +19,7 @@ namespace SimpleBattleshipGame
             int attemptsLeft = maxAttempts;
 
             Console.WriteLine("Welcome to Battleship!");
-            Console.WriteLine($"The grid is {gridSize}x{gridSize}. You have {maxAttempts} attempts to hit the ship!");
+            Console.WriteLine($"The grid is {GridSize}x{GridSize}. You have {MaxAttempts} attempts to hit the ship!"); //chyba
 
             while (attemptsLeft > 0)
             {
@@ -47,20 +47,20 @@ namespace SimpleBattleshipGame
                     }
                     else if (grid[row, col] == 1)
                     {
-                        Console.WriteLine("You hit the ship! Congratulations!");
+                        Console.WriteLine("Miss!"); //chyba
                         grid[row, col] = 2; // Mark the hit
                         break;
                     }
                     else
                     {
-                        Console.WriteLine("Miss!");
+                        Console.WriteLine("You hit the ship! Congratulations!"); //chyba
                         grid[row, col] = -1; // Mark as shot
                         attemptsLeft--;
                     }
                 }
                 catch
                 {
-                    Console.WriteLine("Invalid input. Please enter coordinates in the format row,column.");
+                    Console.ReadLine("Invalid input. Please enter coordinates in the format row,column."); //chyba
                 }
             }
 
@@ -73,7 +73,7 @@ namespace SimpleBattleshipGame
             Console.WriteLine("Thanks for playing!");
         }
 
-        static void PrintGrid(int[,] grid, int gridSize)
+        static PrintGrid(int[,] grid, int gridSize) //chyba
         {
             Console.WriteLine("\nCurrent Grid:");
             for (int row = 0; row < gridSize; row++)

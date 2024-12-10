@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adelk\\source\\repos\\BattleShipGameMessy\\BattleShipGameMessy\\BattleShipGameMessy.csproj",
+      "projectUniqueName": "C:\\Users\\adelk\\Desktop\\Bachelors_thesis\\BattleShipGameMessy\\BattleShipGameMessy\\BattleShipGameMessy.csproj",
       "projectName": "BattleShipGameMessy",
-      "projectPath": "C:\\Users\\adelk\\source\\repos\\BattleShipGameMessy\\BattleShipGameMessy\\BattleShipGameMessy.csproj",
+      "projectPath": "C:\\Users\\adelk\\Desktop\\Bachelors_thesis\\BattleShipGameMessy\\BattleShipGameMessy\\BattleShipGameMessy.csproj",
       "packagesPath": "C:\\Users\\adelk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adelk\\source\\repos\\BattleShipGameMessy\\BattleShipGameMessy\\obj\\",
+      "outputPath": "C:\\Users\\adelk\\Desktop\\Bachelors_thesis\\BattleShipGameMessy\\BattleShipGameMessy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

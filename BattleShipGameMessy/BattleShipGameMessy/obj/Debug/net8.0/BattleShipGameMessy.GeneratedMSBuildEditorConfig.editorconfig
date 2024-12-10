@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BattleShipGameMessy
-build_property.ProjectDir = C:\Users\adelk\source\repos\BattleShipGameMessy\BattleShipGameMessy\
+build_property.ProjectDir = C:\Users\adelk\Desktop\Bachelors_thesis\BattleShipGameMessy\BattleShipGameMessy\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "CcqN8hUqQ3c=",
+  "dgSpecHash": "STsaeax3PRk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\adelk\\source\\repos\\BattleShipGameMessy\\BattleShipGameMessy\\BattleShipGameMessy.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\adelk\\Desktop\\Organizace-virtualniho-prostoru-a-jeji-vliv-na-efektivitu-prace-v-IT\\BattleShipGameMessy\\BattleShipGameMessy\\BattleShipGameMessy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adelk\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.100\\microsoft.net.sdk.compilers.toolset.9.0.100.nupkg.sha512",
+    "C:\\Users\\adelk\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\adelk\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.11\\microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\adelk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.11\\microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\adelk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.11\\microsoft.netcore.app.host.win-x64.8.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

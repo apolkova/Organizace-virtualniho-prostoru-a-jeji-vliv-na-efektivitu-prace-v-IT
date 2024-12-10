@@ -1,0 +1,14 @@
+C:\Users\adelk\source\repos\FibonacciCalculatorMessy\FibonacciCalculatorMessy\bin\Debug\net8.0\FibonacciCalculatorMessy.exe
+C:\Users\adelk\source\repos\FibonacciCalculatorMessy\FibonacciCalculatorMessy\bin\Debug\net8.0\FibonacciCalculatorMessy.deps.json
+C:\Users\adelk\source\repos\FibonacciCalculatorMessy\FibonacciCalculatorMessy\bin\Debug\net8.0\FibonacciCalculatorMessy.runtimeconfig.json
+C:\Users\adelk\source\repos\FibonacciCalculatorMessy\FibonacciCalculatorMessy\bin\Debug\net8.0\FibonacciCalculatorMessy.dll
+C:\Users\adelk\source\repos\FibonacciCalculatorMessy\FibonacciCalculatorMessy\bin\Debug\net8.0\FibonacciCalculatorMessy.pdb
+C:\Users\adelk\source\repos\FibonacciCalculatorMessy\FibonacciCalculatorMessy\obj\Debug\net8.0\FibonacciCalculatorMessy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adelk\source\repos\FibonacciCalculatorMessy\FibonacciCalculatorMessy\obj\Debug\net8.0\FibonacciCalculatorMessy.AssemblyInfoInputs.cache
+C:\Users\adelk\source\repos\FibonacciCalculatorMessy\FibonacciCalculatorMessy\obj\Debug\net8.0\FibonacciCalculatorMessy.AssemblyInfo.cs
+C:\Users\adelk\source\repos\FibonacciCalculatorMessy\FibonacciCalculatorMessy\obj\Debug\net8.0\FibonacciCalculatorMessy.csproj.CoreCompileInputs.cache
+C:\Users\adelk\source\repos\FibonacciCalculatorMessy\FibonacciCalculatorMessy\obj\Debug\net8.0\FibonacciCalculatorMessy.dll
+C:\Users\adelk\source\repos\FibonacciCalculatorMessy\FibonacciCalculatorMessy\obj\Debug\net8.0\refint\FibonacciCalculatorMessy.dll
+C:\Users\adelk\source\repos\FibonacciCalculatorMessy\FibonacciCalculatorMessy\obj\Debug\net8.0\FibonacciCalculatorMessy.pdb
+C:\Users\adelk\source\repos\FibonacciCalculatorMessy\FibonacciCalculatorMessy\obj\Debug\net8.0\FibonacciCalculatorMessy.genruntimeconfig.cache
+C:\Users\adelk\source\repos\FibonacciCalculatorMessy\FibonacciCalculatorMessy\obj\Debug\net8.0\ref\FibonacciCalculatorMessy.dll

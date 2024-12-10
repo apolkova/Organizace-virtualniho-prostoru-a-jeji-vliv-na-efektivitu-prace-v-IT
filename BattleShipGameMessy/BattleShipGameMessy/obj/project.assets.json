@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adelk\\source\\repos\\BattleShipGameMessy\\BattleShipGameMessy\\BattleShipGameMessy.csproj",
+      "projectUniqueName": "C:\\Users\\adelk\\Desktop\\Organizace-virtualniho-prostoru-a-jeji-vliv-na-efektivitu-prace-v-IT\\BattleShipGameMessy\\BattleShipGameMessy\\BattleShipGameMessy.csproj",
       "projectName": "BattleShipGameMessy",
-      "projectPath": "C:\\Users\\adelk\\source\\repos\\BattleShipGameMessy\\BattleShipGameMessy\\BattleShipGameMessy.csproj",
+      "projectPath": "C:\\Users\\adelk\\Desktop\\Organizace-virtualniho-prostoru-a-jeji-vliv-na-efektivitu-prace-v-IT\\BattleShipGameMessy\\BattleShipGameMessy\\BattleShipGameMessy.csproj",
       "packagesPath": "C:\\Users\\adelk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adelk\\source\\repos\\BattleShipGameMessy\\BattleShipGameMessy\\obj\\",
+      "outputPath": "C:\\Users\\adelk\\Desktop\\Organizace-virtualniho-prostoru-a-jeji-vliv-na-efektivitu-prace-v-IT\\BattleShipGameMessy\\BattleShipGameMessy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,7 +50,7 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
+        "auditMode": "all"
       }
     },
     "frameworks": {
@@ -67,12 +67,34 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.11, 8.0.11]"
+          },
+          {
+            "name": "Microsoft.Net.Sdk.Compilers.Toolset",
+            "version": "[9.0.100, 9.0.100]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[8.0.11, 8.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.11, 8.0.11]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.11, 8.0.11]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

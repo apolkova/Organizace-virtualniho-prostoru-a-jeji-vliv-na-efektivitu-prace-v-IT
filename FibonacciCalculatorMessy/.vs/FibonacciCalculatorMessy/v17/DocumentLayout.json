@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\adelk\\source\\repos\\FibonacciCalculatorMessy\\",
+  "WorkspaceRootPath": "C:\\Users\\adelk\\Desktop\\Organizace-virtualniho-prostoru-a-jeji-vliv-na-efektivitu-prace-v-IT\\FibonacciCalculatorMessy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F669617-D85A-4DDC-8D4A-ED6108EF9BC0}|FibonacciCalculatorMessy\\FibonacciCalculatorMessy.csproj|c:\\users\\adelk\\source\\repos\\fibonaccicalculatormessy\\fibonaccicalculatormessy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F669617-D85A-4DDC-8D4A-ED6108EF9BC0}|FibonacciCalculatorMessy\\FibonacciCalculatorMessy.csproj|c:\\users\\adelk\\desktop\\organizace-virtualniho-prostoru-a-jeji-vliv-na-efektivitu-prace-v-it\\fibonaccicalculatormessy\\fibonaccicalculatormessy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F669617-D85A-4DDC-8D4A-ED6108EF9BC0}|FibonacciCalculatorMessy\\FibonacciCalculatorMessy.csproj|solutionrelative:fibonaccicalculatormessy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\adelk\\source\\repos\\FibonacciCalculatorMessy\\FibonacciCalculatorMessy\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\adelk\\Desktop\\Organizace-virtualniho-prostoru-a-jeji-vliv-na-efektivitu-prace-v-IT\\FibonacciCalculatorMessy\\FibonacciCalculatorMessy\\Program.cs",
               "RelativeDocumentMoniker": "FibonacciCalculatorMessy\\Program.cs",
-              "ToolTip": "C:\\Users\\adelk\\source\\repos\\FibonacciCalculatorMessy\\FibonacciCalculatorMessy\\Program.cs",
+              "ToolTip": "C:\\Users\\adelk\\Desktop\\Organizace-virtualniho-prostoru-a-jeji-vliv-na-efektivitu-prace-v-IT\\FibonacciCalculatorMessy\\FibonacciCalculatorMessy\\Program.cs",
               "RelativeToolTip": "FibonacciCalculatorMessy\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T23:33:23.728Z",
               "EditorCaption": ""

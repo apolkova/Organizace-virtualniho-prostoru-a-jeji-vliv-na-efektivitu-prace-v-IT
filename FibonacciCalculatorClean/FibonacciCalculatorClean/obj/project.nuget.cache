@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jrN1kb9BUTc=",
+  "dgSpecHash": "SfTLVRa5wS4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\adelk\\source\\repos\\FibonacciCalculatorClean\\FibonacciCalculatorClean\\FibonacciCalculatorClean.csproj",
+  "projectFilePath": "C:\\Users\\adelk\\Desktop\\Organizace-virtualniho-prostoru-a-jeji-vliv-na-efektivitu-prace-v-IT\\FibonacciCalculatorClean\\FibonacciCalculatorClean\\FibonacciCalculatorClean.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adelk\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.100\\microsoft.net.sdk.compilers.toolset.9.0.100.nupkg.sha512",
     "C:\\Users\\adelk\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",

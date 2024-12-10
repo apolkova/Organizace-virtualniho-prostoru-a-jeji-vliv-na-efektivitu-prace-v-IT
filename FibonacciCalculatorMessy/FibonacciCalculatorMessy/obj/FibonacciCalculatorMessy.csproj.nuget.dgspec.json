@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adelk\\source\\repos\\FibonacciCalculatorMessy\\FibonacciCalculatorMessy\\FibonacciCalculatorMessy.csproj": {}
+    "C:\\Users\\adelk\\Desktop\\Organizace-virtualniho-prostoru-a-jeji-vliv-na-efektivitu-prace-v-IT\\FibonacciCalculatorMessy\\FibonacciCalculatorMessy\\FibonacciCalculatorMessy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adelk\\source\\repos\\FibonacciCalculatorMessy\\FibonacciCalculatorMessy\\FibonacciCalculatorMessy.csproj": {
+    "C:\\Users\\adelk\\Desktop\\Organizace-virtualniho-prostoru-a-jeji-vliv-na-efektivitu-prace-v-IT\\FibonacciCalculatorMessy\\FibonacciCalculatorMessy\\FibonacciCalculatorMessy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adelk\\source\\repos\\FibonacciCalculatorMessy\\FibonacciCalculatorMessy\\FibonacciCalculatorMessy.csproj",
+        "projectUniqueName": "C:\\Users\\adelk\\Desktop\\Organizace-virtualniho-prostoru-a-jeji-vliv-na-efektivitu-prace-v-IT\\FibonacciCalculatorMessy\\FibonacciCalculatorMessy\\FibonacciCalculatorMessy.csproj",
         "projectName": "FibonacciCalculatorMessy",
-        "projectPath": "C:\\Users\\adelk\\source\\repos\\FibonacciCalculatorMessy\\FibonacciCalculatorMessy\\FibonacciCalculatorMessy.csproj",
+        "projectPath": "C:\\Users\\adelk\\Desktop\\Organizace-virtualniho-prostoru-a-jeji-vliv-na-efektivitu-prace-v-IT\\FibonacciCalculatorMessy\\FibonacciCalculatorMessy\\FibonacciCalculatorMessy.csproj",
         "packagesPath": "C:\\Users\\adelk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adelk\\source\\repos\\FibonacciCalculatorMessy\\FibonacciCalculatorMessy\\obj\\",
+        "outputPath": "C:\\Users\\adelk\\Desktop\\Organizace-virtualniho-prostoru-a-jeji-vliv-na-efektivitu-prace-v-IT\\FibonacciCalculatorMessy\\FibonacciCalculatorMessy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
